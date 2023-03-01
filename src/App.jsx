@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      <h1>Hello, its my React Template</h1>
+      <h1>Hello, it's my React Template</h1>
     </div>
   )
 }
