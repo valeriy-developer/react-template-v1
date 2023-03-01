@@ -1,7 +1,4 @@
 function App() {
-  const name = 'hello'
-  console.log(name)
-
   return (
     <div className="App">
       <h1>Hello, its my React Template</h1>
